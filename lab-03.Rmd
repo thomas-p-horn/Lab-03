@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "names here"
+author: "Thomas, Solomon, Minnie, Liuborui Shi"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -10,7 +10,7 @@ output: html_document
 
 ```{r load-packages, message = FALSE, warning=FALSE}
 library(tidyverse) 
-```
+``` 
 
 ```{r reading-nobel-data, message = FALSE}
 nobel <- read_csv("data/nobel.csv")
