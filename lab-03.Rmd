@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Thomas, Solomon, Minnie, Liuborui Shi"
+author: "names here"
 date: "`r Sys.Date()`"
 output: html_document
 ---
