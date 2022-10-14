@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "names here"
+author: "Test string meant to cause merge conflict"
 date: "`r Sys.Date()`"
 output: html_document
 ---
